@@ -3,7 +3,7 @@
 A simple interactive 3D magnet effect button created using HTML, CSS, and JavaScript with GSAP animations.
 
 ## Video Tutorial
-Check out The Video Tutorial: [video Tutorial](#)
+Check out The Video Tutorial: [video Tutorial](https://youtu.be/hrcjzc0sfoI?si=YkLgEPNC8P7LuDbL)
 ## Read Blog Post
 Read Blog Post: [Read Blog Post](https://docode.co.in/post/3d-magnet-effect-button-gsap)
 
