@@ -5,7 +5,7 @@ A simple interactive 3D magnet effect button created using HTML, CSS, and JavaSc
 ## Video Tutorial
 Check out The Video Tutorial: [video Tutorial](#)
 ## Read Blog Post
-Read Blog Post: [Read Blog Post](#)
+Read Blog Post: [Read Blog Post](https://docode.co.in/post/3d-magnet-effect-button-gsap)
 
 ## Features
 - Smooth 3D hover effect
